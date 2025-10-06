@@ -1,2 +1,2 @@
 # A Systematic Literature Review on Model-Based Requirements Engineering
-This .xlsx file shows the selected studies in the SLR.
+The "final papers.xlsx" file shows the data extraction table in the SLR.
