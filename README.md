@@ -2,6 +2,7 @@
 This replication package contains all artifacts to reproduce the methodological processes and results of the Systematic Literature Review (SLR) on Model-Based Requirements Engineering (MBRE).
 
 ## File Structure
+'''
 MBRE/  
 ├── Paper Screening and Data Extraction.xlsx     # Core file for paper screening and data extraction  
 ├── Plotting Script/     # Scripts, data and generated figures for plotting  
@@ -19,6 +20,7 @@ MBRE/
 │ ├── Topic Trends.py     # Python script for topic trends chart  
 │ └── abstract.txt     # Abstracts of all selected papers  
 └── README.md     # Repository documentation  
+'''
 
 ## Key File Descriptions
 ### 1. Paper Screening and Data Extraction.xlsx
