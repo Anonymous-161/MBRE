@@ -12,8 +12,7 @@ MBRE/
 │ ├── Publication Type.py     # Python script for publication type chart  
 │ ├── Publication Year.py     # Python script for publication year chart  
 │ ├── Publisher.py     # Python script for publisher chart  
-│ ├── Region.py     # Python script for region chart  
-│ ├── Region_new.py     # Python script for updated region chart  
+│ ├── Region_new.py     # Python script for region chart  
 │ ├── Score Details.py     # Python script for score details chart  
 │ ├── Score Distribution.py     # Python script for score distribution chart  
 │ ├── Technology Evaluation.py     # Python script for technology evaluation chart  
